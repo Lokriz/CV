@@ -1,2 +1,1 @@
-# CV
-Хранилище в дополнение к резюме с работами в Python и Matlab (формата PDF)
+# Test repository with small Python and Matalb projects
