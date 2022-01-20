@@ -1,1 +1,1 @@
-# Test repository with small Python and Matalb projects
+# Test repository with small Python and Matlab projects
